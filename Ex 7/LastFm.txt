@@ -1,0 +1,4 @@
+Application name	webmining
+API key	c902e0327748608469ab6367154fd106
+Shared secret	adcab6af36208176f1f7aa61cc249464
+Registered to	ChrisGrumpy
